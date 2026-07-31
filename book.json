@@ -1,0 +1,14 @@
+[
+    {
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "year": 1949,
+        "available": true
+    },
+    {
+        "title": "Магическая битва",
+        "author": "Геге акутами",
+        "year": 2018,
+        "available": true
+    }
+]
